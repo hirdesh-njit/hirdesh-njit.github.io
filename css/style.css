@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #515151;
+	color: #000000;
 	margin: 0;
 	font-weight: 600;
 	font-family: 'Josefin Sans', sans-serif;
@@ -43,7 +43,7 @@ h3 {
 
 p {
 	font-size: 18px;
-	color: #000000;
+	color: #515151;
 	line-height: 1.8;
 }
 
@@ -93,7 +93,7 @@ ol {
 	height: 2px;
 	left: 0;
 	bottom: 0;
-	background: #515151;
+	background: #000000;
 }
 
 .set-bg {
@@ -170,13 +170,13 @@ ol {
 	position: relative;
 	background-color: #fff;
 	margin-right: 10px;
-	border: 2px solid #515151;
-	color: #515151;
+	border: 2px solid #000000;
+	color: #000000;
 	font-weight: 700;
 }
 
 .site-btn:hover {
-	color: #515151;
+	color: #000000;
 }
 
 .circle-progress {
@@ -206,7 +206,7 @@ ol {
 
 .circle-progress .progress-info h2 {
 	font-size: 36px;
-	color: #515151 !important;
+	color: #000000 !important;
 }
 
 .circle-progress .prog-title {
@@ -221,7 +221,7 @@ ol {
 
 .circle-progress .prog-title p {
 	font-size: 15px;
-	color: #000000 !important;
+	color: #515151 !important;
 }
 
 /* Image Popup */
@@ -248,7 +248,7 @@ ol {
 	height: 375px;
 	display: table;
 	width: 100%;
-	background: #515151;
+	background: #000000;
 }
 
 .fact-box.trans {
@@ -283,7 +283,7 @@ ol {
 }
 
 .single-progress-item p {
-	color: #515151;
+	color: #000000;
 	margin-bottom: 0;
 	font-weight: 600;
 }
@@ -301,14 +301,14 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #515151;
+	background: #000000;
 }
 
 .bar-inner span {
 	position: absolute;
 	right: 0;
 	bottom: -30px;
-	color: #515151;
+	color: #000000;
 	font-weight: 600;
 }
 
@@ -337,7 +337,7 @@ ol {
 	display: inline-block;
 	margin-right: 18px;
 	border-radius: 12px;
-	background: #515151;
+	background: #000000;
 }
 
 .language-progress .lan-prog span.fade-ele {
@@ -360,7 +360,7 @@ ol {
 }
 
 .icon-box p {
-	color: #515151;
+	color: #000000;
 }
 
 .social-links a {
@@ -382,7 +382,7 @@ ol {
 }
 
 .site-logo h2 a {
-	color: #515151;
+	color: #000000;
 }
 
 .site-logo p {
@@ -430,12 +430,12 @@ ol {
 
 .hero-info ul li {
 	font-size: 24px;
-	color: #000000;
+	color: #515151;
 	margin-bottom: 15px;
 }
 
 .hero-info ul li span {
-	color: #515151;
+	color: #000000;
 	display: inline-block;
 	min-width: 220px;
 }
@@ -503,7 +503,7 @@ ol {
 	list-style: none;
 	margin-left: 60px;
 	padding-left: 110px;
-	border-left: 2px solid #515151;
+	border-left: 2px solid #000000;
 }
 
 .resume-list li {
@@ -520,7 +520,7 @@ ol {
 	content: '';
 	width: 15px;
 	height: 15px;
-	border: 2px solid #515151;
+	border: 2px solid #000000;
 	border-radius: 50px;
 	background: #cacaca;
 	top: 30px;
@@ -535,7 +535,7 @@ ol {
 .resume-list h4 {
 	font-size: 16px;
 	text-transform: uppercase;
-	color: #000000;
+	color: #515151;
 	margin-top: 10px;
 	margin-bottom: 45px;
 }
@@ -560,14 +560,14 @@ ol {
 .review-slider .owl-dots .owl-dot {
 	width: 12px;
 	height: 12px;
-	border: 2px solid #515151;
+	border: 2px solid #000000;
 	border-radius: 50px;
 	background: #cacaca;
 	margin-bottom: 15px;
 }
 
 .review-slider .owl-dots .owl-dot.active {
-	background: #515151;
+	background: #000000;
 }
 
 .single-review .qut {
@@ -689,7 +689,7 @@ ol {
 	Footer section
 -----------------------*/
 .footer-section {
-	background: #515151;
+	background: #000000;
 	padding: 20px 0;
 }
 
@@ -886,7 +886,7 @@ ol {
 
 .home-three-style .review-slider .owl-dots .owl-dot.active,
 .home-four-style .review-slider .owl-dots .owl-dot.active {
-	background: #515151;
+	background: #000000;
 }
 
 .home-three-style .skills,
@@ -1085,7 +1085,7 @@ ol {
 }
 
 .home-five-style .review-slider .owl-dots .owl-dot.active {
-	background: #515151;
+	background: #000000;
 }
 
 .home-five-style .circle-progress {
@@ -1195,7 +1195,7 @@ ol {
 }
 
 .info-section {
-	background: #515151;
+	background: #000000;
 	padding: 60px 0;
 }
 
