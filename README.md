@@ -1,1 +1,0 @@
-Proactive and work-driven Cyber-security grad student with an interest in Network security and Web Technologies with 1+ yrs experience in Front-end Development with two IIT Bombay startups. Actively seeking internships for summer 2018.
